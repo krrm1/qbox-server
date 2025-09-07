@@ -1,0 +1,37 @@
+{
+	"Shops": {
+		"NotEnoughMoney": "Bu öğeyi satın almak için yeterli paranız yok",
+		"Input": "Miktar girişi",
+		"PurchaseAmount": "Satın alma miktarı",
+		"PurchasedItem": "Satın aldınız ",
+		"CurrencySymbol": "$ %s",
+		"Confirm": "Satın almayı onayla",
+		"AreYouSure": "Bir %s satın almak istediğinizden emin misiniz",
+		"PayByCash": "%s nakit ile öde",
+		"PayByCard": "%s kart ile öde",
+		"CardIcon": "fa-solid fa-building-columns",
+		"CashIcon": "fa-solid fa-money-bill-wave",
+		"ShopIcon": "fa-solid fa-basket-shopping",
+		"ShopName": "Mağaza adı"
+	},
+	"UNITTEST": {
+		"UNITTESTA": "Ben bir %s %s'yim",
+		"locale-unit-test": "Bu bir test dizesidir"
+	},
+	"clipboard": {
+		"copy": "Panoya kopyalandı"
+	},
+	"placeable_object": {
+		"no_prop_defined": "Yerleştirmek için herhangi bir nesne tanımlamadınız",
+		"cant_place_here": "Bu nesneyi buraya yerleştiremezsiniz",
+		"place_object_place": "[E] Yerleştir  \n",
+		"place_object_cancel": "[X] İptal  \n",
+		"place_object_scroll_up": "[Scroll Up] Sağa döndür  \n",
+		"place_object_scroll_down": "[Scroll Down] Sola döndür  \n",
+		"object_place": "[%s] Yerleştir  \n",
+		"object_cancel": "[%s] İptal  \n",
+		"object_scroll_up": "[%s] Sağa döndür  \n",
+		"object_scroll_down": "[%s] Sola döndür  \n",
+		"depth_modifier": "[%s] Derinlik kontrol düzenleyicisi  \n"
+	}
+}

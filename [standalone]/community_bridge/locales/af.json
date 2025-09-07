@@ -1,0 +1,37 @@
+{
+	"Shops": {
+		"NotEnoughMoney": "Jy het nie genoeg geld om hierdie item te koop nie",
+		"Input": "Hoeveelheid Invoer",
+		"PurchaseAmount": "Aankoop Hoeveelheid",
+		"PurchasedItem": "Jy het gekoop ",
+		"CurrencySymbol": "$ %s",
+		"Confirm": "Bevestig Aankoop",
+		"AreYouSure": "Is jy seker jy wil 'n %s koop",
+		"PayByCash": "Betaal %s met kontant",
+		"PayByCard": "Betaal %s met kaart",
+		"CardIcon": "fa-solid fa-building-columns",
+		"CashIcon": "fa-solid fa-money-bill-wave",
+		"ShopIcon": "fa-solid fa-basket-shopping",
+		"ShopName": "Winkel Naam"
+	},
+	"UNITTEST": {
+		"UNITTESTA": "Ek is 'n %s %s",
+		"locale-unit-test": "Dit is 'n toets string"
+	},
+	"clipboard": {
+		"copy": "Gekopieer na klipbord"
+	},
+	"placeable_object": {
+		"no_prop_defined": "Jy het nie enige voorwerp gedefinieer om te plaas nie",
+		"cant_place_here": "Jy kan nie hierdie voorwerp hier plaas nie",
+		"place_object_place": "[E] Plaas  \n",
+		"place_object_cancel": "[X] Kanselleer  \n",
+		"place_object_scroll_up": "[Scroll Up] Draai regs  \n",
+		"place_object_scroll_down": "[Scroll Down] Draai links  \n",
+		"object_place": "[%s] Plaas  \n",
+		"object_cancel": "[%s] Kanselleer  \n",
+		"object_scroll_up": "[%s] Draai regs  \n",
+		"object_scroll_down": "[%s] Draai links  \n",
+		"depth_modifier": "[%s] Diepte Beheer Wysiging  \n"
+	}
+}

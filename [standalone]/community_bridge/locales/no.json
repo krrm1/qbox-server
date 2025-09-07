@@ -1,0 +1,37 @@
+{
+	"Shops": {
+		"NotEnoughMoney": "Du har ikke nok penger til å kjøpe denne varen",
+		"Input": "Mengde inndata",
+		"PurchaseAmount": "Kjøpsmengde",
+		"PurchasedItem": "Du har kjøpt ",
+		"CurrencySymbol": "$ %s",
+		"Confirm": "Bekreft kjøp",
+		"AreYouSure": "Er du sikker på at du vil kjøpe en %s",
+		"PayByCash": "Betal %s med kontanter",
+		"PayByCard": "Betal %s med kort",
+		"CardIcon": "fa-solid fa-building-columns",
+		"CashIcon": "fa-solid fa-money-bill-wave",
+		"ShopIcon": "fa-solid fa-basket-shopping",
+		"ShopName": "Butikknavn"
+	},
+	"UNITTEST": {
+		"UNITTESTA": "Jeg er en %s %s",
+		"locale-unit-test": "Dette er en teststreng"
+	},
+	"clipboard": {
+		"copy": "Kopiert til utklippstavle"
+	},
+	"placeable_object": {
+		"no_prop_defined": "Du har ikke definert noe objekt å plassere",
+		"cant_place_here": "Du kan ikke plassere dette objektet her",
+		"place_object_place": "[E] Plasser  \n",
+		"place_object_cancel": "[X] Avbryt  \n",
+		"place_object_scroll_up": "[Scroll Up] Snu til høyre  \n",
+		"place_object_scroll_down": "[Scroll Down] Snu til venstre  \n",
+		"object_place": "[%s] Plasser  \n",
+		"object_cancel": "[%s] Avbryt  \n",
+		"object_scroll_up": "[%s] Snu til høyre  \n",
+		"object_scroll_down": "[%s] Snu til venstre  \n",
+		"depth_modifier": "[%s] Dybdekontroll modifikator  \n"
+	}
+}

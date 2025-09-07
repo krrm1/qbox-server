@@ -1,0 +1,37 @@
+{
+	"Shops": {
+		"NotEnoughMoney": "Sinulla ei ole tarpeeksi rahaa ostaaksesi tätä tuotetta",
+		"Input": "Määrän syöttö",
+		"PurchaseAmount": "Ostomäärä",
+		"PurchasedItem": "Olet ostanut ",
+		"CurrencySymbol": "$ %s",
+		"Confirm": "Vahvista osto",
+		"AreYouSure": "Oletko varma, että haluat ostaa %s",
+		"PayByCash": "Maksa %s käteisellä",
+		"PayByCard": "Maksa %s kortilla",
+		"CardIcon": "fa-solid fa-building-columns",
+		"CashIcon": "fa-solid fa-money-bill-wave",
+		"ShopIcon": "fa-solid fa-basket-shopping",
+		"ShopName": "Kaupan nimi"
+	},
+	"UNITTEST": {
+		"UNITTESTA": "Olen %s %s",
+		"locale-unit-test": "Tämä on testimerkki"
+	},
+	"clipboard": {
+		"copy": "Kopioitu leikepöydälle"
+	},
+	"placeable_object": {
+		"no_prop_defined": "Et ole määrittänyt mitään objektia sijoitettavaksi",
+		"cant_place_here": "Et voi sijoittaa tätä objektia tähän",
+		"place_object_place": "[E] Sijoita  \n",
+		"place_object_cancel": "[X] Peruuta  \n",
+		"place_object_scroll_up": "[Scroll Up] Käännä oikealle  \n",
+		"place_object_scroll_down": "[Scroll Down] Käännä vasemmalle  \n",
+		"object_place": "[%s] Sijoita  \n",
+		"object_cancel": "[%s] Peruuta  \n",
+		"object_scroll_up": "[%s] Käännä oikealle  \n",
+		"object_scroll_down": "[%s] Käännä vasemmalle  \n",
+		"depth_modifier": "[%s] Syvyyshallinnan muokkaaja  \n"
+	}
+}

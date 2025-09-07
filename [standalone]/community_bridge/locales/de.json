@@ -1,0 +1,37 @@
+{
+	"Shops": {
+		"NotEnoughMoney": "Sie haben nicht genug Geld, um diesen Artikel zu kaufen",
+		"Input": "Mengen-Eingabe",
+		"PurchaseAmount": "Kaufmenge",
+		"PurchasedItem": "Sie haben gekauft ",
+		"CurrencySymbol": "$ %s",
+		"Confirm": "Kauf bestätigen",
+		"AreYouSure": "Sind Sie sicher, dass Sie einen %s kaufen möchten",
+		"PayByCash": "%s mit Bargeld bezahlen",
+		"PayByCard": "%s mit Karte bezahlen",
+		"CardIcon": "fa-solid fa-building-columns",
+		"CashIcon": "fa-solid fa-money-bill-wave",
+		"ShopIcon": "fa-solid fa-basket-shopping",
+		"ShopName": "Geschäftsname"
+	},
+	"UNITTEST": {
+		"UNITTESTA": "Ich bin ein %s %s",
+		"locale-unit-test": "Dies ist ein Test-String"
+	},
+	"clipboard": {
+		"copy": "In die Zwischenablage kopiert"
+	},
+	"placeable_object": {
+		"no_prop_defined": "Sie haben kein Objekt zum Platzieren definiert",
+		"cant_place_here": "Sie können dieses Objekt hier nicht platzieren",
+		"place_object_place": "[E] Platzieren  \n",
+		"place_object_cancel": "[X] Abbrechen  \n",
+		"place_object_scroll_up": "[Scroll Up] Nach rechts drehen  \n",
+		"place_object_scroll_down": "[Scroll Down] Nach links drehen  \n",
+		"object_place": "[%s] Platzieren  \n",
+		"object_cancel": "[%s] Abbrechen  \n",
+		"object_scroll_up": "[%s] Nach rechts drehen  \n",
+		"object_scroll_down": "[%s] Nach links drehen  \n",
+		"depth_modifier": "[%s] Tiefenkontrolle Modifikator  \n"
+	}
+}
